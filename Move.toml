@@ -1,0 +1,15 @@
+[package]
+
+name = "Blockchain-based-Library-System"
+version = "1.0.0"
+
+[addresses]
+MyModule = "0xbab15d6424303a2aae2bb866608fe783477bcdb56933424e7cc27295c4a7e6f2"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
