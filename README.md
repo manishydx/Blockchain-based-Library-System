@@ -76,3 +76,7 @@ Our vision is to democratize decision-making processes by providing a transparen
 ---
 
 *This project represents the beginning of a new era in democratic decision-making, where transparency, accessibility, and fairness are built into the very foundation of our voting systems.*  
+
+transaction id 0x9ec94865c7f6250007b107ec7b8cc41f3f164576940e746e894962913f6196d7
+
+<img width="1889" height="877" alt="image" src="https://github.com/user-attachments/assets/68efa14c-f8bb-41cc-8ab4-5a0f3e138cdd" />
